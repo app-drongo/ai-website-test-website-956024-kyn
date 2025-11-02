@@ -18,8 +18,8 @@ const DEFAULT_HERO = {
     'Mobile-optimized testing',
     'Secure data handling',
   ],
-  primaryCTA: 'Start Free Trial',
-  secondaryCTA: 'View Pricing',
+  primaryCTA: 'Start Trial',
+  secondaryCTA: 'GO Pricing',
   primaryCTAHref: '#pricing',
   secondaryCTAHref: '#pricing',
   imageUrl:

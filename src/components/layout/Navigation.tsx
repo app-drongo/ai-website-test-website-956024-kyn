@@ -13,7 +13,7 @@ const DEFAULT_NAVBAR = {
   logoText: 'Test Website',
   signInButton: 'Sign In',
   signInHref: '/signin',
-  getStartedButton: 'Get Started',
+  getStartedButton: 'Started',
   getStartedHref: '/signup',
 } as const;
 
