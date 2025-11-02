@@ -8,7 +8,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
   badge: 'New: Free Trial Available',
-  title: 'Test your ideas with confidence using',
+  title: 'Hello your ideas with confidence using',
   titleHighlight: 'Test Website',
   description:
     'The minimal testing platform that helps you validate concepts, gather feedback, and make data-driven decisions without the complexity.',
